@@ -1,6 +1,6 @@
 /*
 Arcade credits mode Plugin for attractplus version 1.0 by ecco.
-This is a virtual arcade credit system to start games in AM+.
+This is a virtual arcade credit - system to start games in AM+.
 
 Made to add function's for mapping your arcade cabnet with am+ to a coin door for personal use or gain! 
 one quarter at a time
