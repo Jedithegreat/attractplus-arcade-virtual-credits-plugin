@@ -1,4 +1,4 @@
-# attractplus-arcade-vitual-credits-plugin
+# attractplus-arcade-virtual-credits-plugin
 <pre>
   
 Place the Credits folder into the plugins folder in attractplus main folder.
