@@ -1,15 +1,15 @@
 # attractplus-arcade-vitual-credits-plugin
 <pre>
   
-Place the Credits foler into the plugins folder in attractplus main folder.
+Place the Credits folder into the plugins folder in attractplus main folder.
 
 A plugin for attractplus to add virtural coin / credits counter for cabnett coin doors.
 
 How to: tab > controls > 
 
-  Use custom1 -- for coin door or add credits
+  Use custom1 -- for coin's or add-credits
    use custom2 -- for del credits.
-    use custome3  -- for toggle freeplat and credits mode
+    use custom3  -- for toggle freeplay and credits mode
   
 enjoy.
   
